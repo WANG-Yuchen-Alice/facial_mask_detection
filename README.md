@@ -1,6 +1,17 @@
 # facial_mask_detection
 
-This project serves as the final project for CS5242: Neural Networks and Deep Learning in AY2022/23, Semester 1.
+Repo for CS5242 Final Project [Group 10]: Neural Networks and Deep Learning in AY2022/23, Semester 1.
+
+### Repo Structure
+- mlp/cnn/lstm/transformer: folders that contain the notebook/scripts/codes for each model, correspondingly
+- reports: 
+  - final report notebook
+  - final presentation slides
+  - project plan
+- preparation: 
+  - scripts for data collection, preprocessing, and augmentation
+  - scripts for data and results visualization
+- raw_data: links to our datasets
 
 ### Introduction
 COVID-19 has greatly affected people's lives. Masks have proved to be an effective method to stop the spread of the virus since 2020. Although Singapore has partially loosened its coronavirus controls, people are still required to wear masks in public places such as buses and subways. Therefore, intelligent identification of whether passengers are wearing masks is a research topic of great significance. 
