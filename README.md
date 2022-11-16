@@ -1,4 +1,4 @@
-# facial_mask_detection
+# Deep Learning Based Facial Mask Detection
 
 Repo for CS5242 Final Project [Group 10]: Neural Networks and Deep Learning in AY2022/23, Semester 1.
 
